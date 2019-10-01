@@ -15,6 +15,7 @@ public class MainActivity extends YouTubeBaseActivity implements YouTubePlayer.O
 
     private static final int RECOVERY_REQUEST = 1;
     private YouTubePlayerView youTubeView;
+    String x ="10";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
